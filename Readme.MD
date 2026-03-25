@@ -20,8 +20,8 @@ My recent work mainly revolves around diffusion models, Diffusion Transformers (
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=ppporridge&show_icons=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppporridge&layout=compact" height="165">
 </p>
 
 ## Contact
